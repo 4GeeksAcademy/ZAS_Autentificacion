@@ -37,7 +37,7 @@ export const Navbar = () => {
     return (
         <>
             <nav className="navbar navbar-light bg-black">
-                <div className="container">
+                <div className="container-fluid">
                     <Link
                         to="/"
                         style={{
@@ -63,7 +63,7 @@ export const Navbar = () => {
                     <div className="d-flex">
                         <button
                             type="button"
-                            className="btn btn-dark px-4"
+                            className="text-light bg-black border-0"
                             onClick={handleShowRegisterModal}
                         >
                             REGISTER

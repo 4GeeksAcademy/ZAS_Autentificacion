@@ -67,7 +67,8 @@
 
   .modal{
 
-    backdrop-filter: blur(10px);
+    
+    backdrop-filter: brightness(0.2);
   }
 
 

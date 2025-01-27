@@ -63,7 +63,7 @@ export const Navbar = () => {
                     <div className="d-flex">
                         <button
                             type="button"
-                            className="text-light bg-black border-0"
+                            className="register bg-black border-0"
                             onClick={handleShowRegisterModal}
                         >
                             REGISTER

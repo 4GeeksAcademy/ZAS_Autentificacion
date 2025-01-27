@@ -71,4 +71,11 @@
     backdrop-filter: brightness(0.2);
   }
 
+  .register{
+    color: white;
+  }
+  .register:hover{
+    color: rgb(255, 0, 0);
+  }
+
 
